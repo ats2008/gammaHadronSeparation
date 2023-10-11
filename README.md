@@ -1,6 +1,6 @@
 *Work in Progress*
 
-# gammaHadronClassifier
+# gamma-Hadron Classifier Studies
 Classification of gamma ray showers from a source to isotropic proton showers 
 
 ## File Nomenclature 
